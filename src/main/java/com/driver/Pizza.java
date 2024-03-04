@@ -66,7 +66,7 @@ public class Pizza {
             bill+="Extra Cheese Added: 80\n";
         }
         if(extraToppings){
-            bill+="Extra Toppings Added: "
+            bill+="Extra Toppings Added: ";
             if(isVeg){
                 bill+="70\n";
             }
